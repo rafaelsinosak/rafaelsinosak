@@ -3,7 +3,7 @@
 **`Fullstack Developer`**
 
 Hi everyone, I'm Rafael. I'm from Brazil. I graduated at FATEC São José dos Campos - Prof. Jessen Vidal.
-Now I'm living in Brazil and work as a fullstack software engineer.
+Now I'm living in Brazil and work as a full stack software engineer.
 
   <p align="left">
       <a href="https://github.com/rafaelsinosak?tab=followers">

@@ -10,6 +10,8 @@ Now I'm living in Brazil and work as a fullstack software engineer.
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rafaelsinosak?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/rafaelsinosak?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafaelsinosak?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href = "mailto:rafaelsinosak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%4555?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/rafaelsinosak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </p>
 
 ---
@@ -74,11 +76,3 @@ Now I'm living in Brazil and work as a fullstack software engineer.
 <img align="left" alt="Google Chrome" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
 <img align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br/>
-<br/>
-<br/>
-
----
-## Get in touch
-
-  <a href = "mailto:rafaelsinosak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelsinosak" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
